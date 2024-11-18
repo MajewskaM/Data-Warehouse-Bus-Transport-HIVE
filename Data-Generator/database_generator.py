@@ -400,17 +400,22 @@ schedule_weekend = []
 # generating schedule for routes
 for route in routes_list:
         route_num = route.split(',')[0]
+        # some routes have more buses
+        add_buses = 0;
+        if int(route_num)%3 == 0:
+            add_buses = 3
+
         for i in range(3):
             schedule = []
             if i == 0:
                 schedule = schedule_weekend
-                buses_per_day = np.random.randint(3, 5)
+                buses_per_day = np.random.randint(3 + add_buses, 5 + add_buses)
             elif i == 1:
                 schedule = schedule_holiday
-                buses_per_day = np.random.randint(3, 5)
+                buses_per_day = np.random.randint(3 + add_buses, 5 + add_buses)
             else:
                 schedule = schedule_weekday
-                buses_per_day = np.random.randint(3, 7)
+                buses_per_day = np.random.randint(3 + add_buses, 7 + add_buses)
 
             day_type = types_of_day[i]
             
