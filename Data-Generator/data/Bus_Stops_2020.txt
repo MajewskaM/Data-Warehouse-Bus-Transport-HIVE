@@ -1,0 +1,14 @@
+1,Bydgoszcz's Bus Stop no. 1,17.8341,52.1546,0,0,1
+2,Torun's Bus Stop no. 1,23.666,52.8921,1,0,1
+3,Gdansk's Bus Stop no. 1,18.1233,51.492,1,0,1
+4,Gdynia's Bus Stop no. 1,21.1175,53.373,1,0,1
+5,Olsztyn's Bus Stop no. 1 - Airport,15.7611,51.107,0,1,1
+6,Olsztyn's Bus Stop no. 2,15.7611,51.107,0,0,0
+7,Elblag's Bus Stop no. 1 - Airport,18.678,52.2567,0,1,1
+8,Elblag's Bus Stop no. 2,18.678,52.2567,0,0,0
+9,Warszawa's Bus Stop no. 1,15.4317,53.6544,1,0,0
+10,Radom's Bus Stop no. 1,14.4548,52.3309,0,0,0
+11,Szczecin's Bus Stop no. 1 - Airport,15.7251,53.3014,0,1,0
+12,Szczecin's Bus Stop no. 2,15.7251,53.3014,0,0,1
+13,Koszalin's Bus Stop no. 1 - Airport,19.8529,51.6866,1,1,1
+14,Koszalin's Bus Stop no. 2,19.8529,51.6866,1,0,1

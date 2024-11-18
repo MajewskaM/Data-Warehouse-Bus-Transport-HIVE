@@ -1,0 +1,181 @@
+1,NE96048,1,feedback_monitor|air_conditioning,low floor
+2,NE48493,1,air_conditioning,minibus
+3,NE95474,1,air_conditioning|feedback_monitor|wheelchair_place,standard
+4,NE57340,1,feedback_monitor|wheelchair_place,standard
+5,NE77356,1,feedback_monitor|air_conditioning|wheelchair_place,low floor
+6,NE16351,1,wheelchair_place|air_conditioning,low floor
+7,NE35823,1,wheelchair_place,low floor
+8,NE53484,1,feedback_monitor|wheelchair_place,minibus
+9,NE84813,1,feedback_monitor|wheelchair_place,standard
+10,ZK60242,2,feedback_monitor|air_conditioning,low floor
+11,ZK70610,2,air_conditioning|feedback_monitor|wheelchair_place,minibus
+12,ZK28175,2,air_conditioning|wheelchair_place,standard
+13,ZK78441,2,wheelchair_place|air_conditioning|feedback_monitor,standard
+14,ZK96471,2,feedback_monitor|air_conditioning|wheelchair_place,minibus
+15,ZK38057,2,air_conditioning|wheelchair_place,minibus
+16,ZK23218,2,feedback_monitor,standard
+17,ZK21410,2,feedback_monitor|wheelchair_place|air_conditioning,standard
+18,ZK15352,2,wheelchair_place|feedback_monitor,minibus
+19,ZK83174,2,air_conditioning|wheelchair_place,low floor
+20,ZK61284,3,air_conditioning|wheelchair_place|feedback_monitor,standard
+21,ZK73443,3,wheelchair_place,minibus
+22,ZK46971,3,feedback_monitor,low floor
+23,ZK39075,3,feedback_monitor|air_conditioning,low floor
+24,ZK99212,3,air_conditioning|wheelchair_place|feedback_monitor,low floor
+25,ZK61643,3,feedback_monitor,standard
+26,ZK61216,3,air_conditioning|feedback_monitor,low floor
+27,ZK85332,3,air_conditioning|feedback_monitor,standard
+28,WA34774,4,wheelchair_place|air_conditioning|feedback_monitor,minibus
+29,WA28132,4,air_conditioning,standard
+30,WA26736,4,feedback_monitor|air_conditioning|wheelchair_place,standard
+31,WA43132,4,feedback_monitor,minibus
+32,WA65276,4,wheelchair_place|feedback_monitor|air_conditioning,minibus
+33,WA90214,4,wheelchair_place,low floor
+34,WA25258,4,wheelchair_place,minibus
+35,WA99792,4,wheelchair_place|feedback_monitor|air_conditioning,low floor
+36,CT87216,5,air_conditioning|feedback_monitor,minibus
+37,CT76190,5,air_conditioning|wheelchair_place,minibus
+38,CT52872,5,air_conditioning|wheelchair_place,minibus
+39,CT57528,5,air_conditioning|feedback_monitor|wheelchair_place,minibus
+40,CT43515,5,air_conditioning|wheelchair_place|feedback_monitor,standard
+41,CT39246,5,air_conditioning|wheelchair_place,minibus
+42,CT17575,5,air_conditioning,low floor
+43,CT65202,5,wheelchair_place|air_conditioning|feedback_monitor,standard
+44,ZK39145,6,air_conditioning|wheelchair_place|feedback_monitor,minibus
+45,ZK39480,6,feedback_monitor|air_conditioning|wheelchair_place,minibus
+46,ZK92321,6,wheelchair_place|air_conditioning,low floor
+47,ZK99679,6,feedback_monitor|air_conditioning,low floor
+48,ZK56359,6,feedback_monitor,minibus
+49,ZK54211,6,air_conditioning,low floor
+50,ZK12612,6,feedback_monitor|wheelchair_place,minibus
+51,ZK83477,6,feedback_monitor,minibus
+52,ZK50148,6,wheelchair_place|feedback_monitor|air_conditioning,minibus
+53,ZK18279,7,air_conditioning|wheelchair_place|feedback_monitor,standard
+54,ZK54402,7,feedback_monitor,low floor
+55,ZK42471,7,feedback_monitor|wheelchair_place|air_conditioning,minibus
+56,ZK68773,7,air_conditioning,minibus
+57,ZK17940,7,feedback_monitor|wheelchair_place,minibus
+58,ZK34487,7,feedback_monitor|air_conditioning|wheelchair_place,standard
+59,ZK19671,7,air_conditioning|feedback_monitor|wheelchair_place,standard
+60,ZK91721,7,feedback_monitor|wheelchair_place,minibus
+61,ZK41787,7,feedback_monitor|wheelchair_place,minibus
+62,ZK56054,8,wheelchair_place,standard
+63,ZK88610,8,air_conditioning|wheelchair_place|feedback_monitor,low floor
+64,ZK15251,8,feedback_monitor|wheelchair_place,minibus
+65,ZK98489,8,air_conditioning|wheelchair_place|feedback_monitor,low floor
+66,ZK87863,8,wheelchair_place,low floor
+67,ZK35301,8,wheelchair_place|air_conditioning|feedback_monitor,low floor
+68,ZK10930,8,air_conditioning,low floor
+69,ZK42483,8,air_conditioning|wheelchair_place,minibus
+70,ZK73242,8,feedback_monitor,standard
+71,ZK68375,8,feedback_monitor|wheelchair_place,low floor
+72,ZK43856,9,air_conditioning,low floor
+73,ZK58232,9,air_conditioning,low floor
+74,ZK99811,9,air_conditioning,standard
+75,ZK14850,9,air_conditioning,low floor
+76,ZK91435,9,wheelchair_place|air_conditioning|feedback_monitor,low floor
+77,ZK80706,9,feedback_monitor|air_conditioning,low floor
+78,ZK60142,9,feedback_monitor|air_conditioning,low floor
+79,ZK78731,9,air_conditioning|feedback_monitor,low floor
+80,ZK80525,9,wheelchair_place|feedback_monitor,low floor
+81,WA24303,10,wheelchair_place,minibus
+82,WA72232,10,feedback_monitor|air_conditioning,standard
+83,WA45194,10,wheelchair_place|feedback_monitor|air_conditioning,low floor
+84,WA15797,10,wheelchair_place|feedback_monitor,standard
+85,WA53645,10,air_conditioning|wheelchair_place,low floor
+86,WA23578,10,feedback_monitor|air_conditioning|wheelchair_place,minibus
+87,WA72455,10,air_conditioning|feedback_monitor,standard
+88,WA47058,10,wheelchair_place|air_conditioning,minibus
+89,GD62846,11,air_conditioning,minibus
+90,GD32641,11,air_conditioning|feedback_monitor,standard
+91,GD63307,11,air_conditioning,minibus
+92,GD58457,11,air_conditioning|wheelchair_place,minibus
+93,GD82188,11,wheelchair_place,standard
+94,GD46905,11,feedback_monitor|wheelchair_place|air_conditioning,standard
+95,GD63772,11,wheelchair_place|feedback_monitor,low floor
+96,GD32714,11,air_conditioning|feedback_monitor,low floor
+97,GD62583,11,wheelchair_place|feedback_monitor|air_conditioning,standard
+98,CT58927,12,feedback_monitor|wheelchair_place|air_conditioning,low floor
+99,CT11025,12,wheelchair_place,low floor
+100,CT86561,12,wheelchair_place|feedback_monitor,standard
+101,CT44849,12,wheelchair_place|air_conditioning|feedback_monitor,standard
+102,CT62140,12,air_conditioning|wheelchair_place,low floor
+103,CT41108,12,feedback_monitor|air_conditioning,low floor
+104,CT89733,12,wheelchair_place|feedback_monitor,standard
+105,CT70362,12,feedback_monitor,low floor
+106,WR34869,13,air_conditioning|feedback_monitor,low floor
+107,WR12082,13,wheelchair_place,low floor
+108,WR42700,13,feedback_monitor|wheelchair_place,standard
+109,WR77488,13,air_conditioning|wheelchair_place|feedback_monitor,low floor
+110,WR38114,13,wheelchair_place|air_conditioning|feedback_monitor,minibus
+111,WR38616,13,wheelchair_place|air_conditioning|feedback_monitor,standard
+112,WR24148,13,wheelchair_place,minibus
+113,WR99598,13,air_conditioning|feedback_monitor,standard
+114,GD94600,14,air_conditioning,minibus
+115,GD78495,14,air_conditioning|feedback_monitor,low floor
+116,GD47613,14,wheelchair_place|feedback_monitor|air_conditioning,standard
+117,GD84082,14,air_conditioning,minibus
+118,GD81361,14,air_conditioning,standard
+119,GD60454,14,feedback_monitor|air_conditioning,minibus
+120,GD36318,14,air_conditioning,standard
+121,GD68555,14,feedback_monitor,standard
+122,CB47215,15,wheelchair_place|air_conditioning|feedback_monitor,standard
+123,CB25972,15,air_conditioning|wheelchair_place,minibus
+124,CB56268,15,air_conditioning|feedback_monitor,low floor
+125,CB49986,15,feedback_monitor|air_conditioning|wheelchair_place,low floor
+126,CB86596,15,wheelchair_place|air_conditioning|feedback_monitor,standard
+127,CB93235,15,air_conditioning|wheelchair_place,standard
+128,CB48370,15,air_conditioning|feedback_monitor|wheelchair_place,low floor
+129,CB47224,15,feedback_monitor,minibus
+130,CB73504,15,wheelchair_place|air_conditioning,standard
+131,CB95761,15,feedback_monitor,low floor
+132,WR17532,16,air_conditioning|wheelchair_place|feedback_monitor,standard
+133,WR78016,16,air_conditioning|wheelchair_place,minibus
+134,WR79429,16,air_conditioning|feedback_monitor|wheelchair_place,minibus
+135,WR19663,16,air_conditioning,minibus
+136,WR20144,16,feedback_monitor,minibus
+137,WR86878,16,air_conditioning|feedback_monitor,low floor
+138,WR55775,16,wheelchair_place,standard
+139,WR56867,16,feedback_monitor|wheelchair_place,low floor
+140,WR18571,16,air_conditioning|wheelchair_place|feedback_monitor,low floor
+141,WR96697,16,air_conditioning|wheelchair_place|feedback_monitor,standard
+142,ZS58073,17,air_conditioning,minibus
+143,ZS67489,17,feedback_monitor|wheelchair_place|air_conditioning,minibus
+144,ZS72725,17,air_conditioning|feedback_monitor,standard
+145,ZS48531,17,air_conditioning|feedback_monitor,standard
+146,ZS66705,17,feedback_monitor|air_conditioning,low floor
+147,ZS89962,17,wheelchair_place,minibus
+148,ZS37332,17,wheelchair_place,standard
+149,ZS57301,17,air_conditioning|feedback_monitor|wheelchair_place,low floor
+150,ZS72520,17,air_conditioning,standard
+151,ZS77522,17,feedback_monitor,low floor
+152,GA51742,18,air_conditioning|wheelchair_place|feedback_monitor,standard
+153,GA59879,18,air_conditioning|feedback_monitor,minibus
+154,GA84898,18,wheelchair_place|air_conditioning,minibus
+155,GA96225,18,feedback_monitor,low floor
+156,GA41539,18,air_conditioning|wheelchair_place,low floor
+157,GA99906,18,air_conditioning,minibus
+158,GA50906,18,air_conditioning,standard
+159,GA56180,18,air_conditioning,minibus
+160,GA70833,18,wheelchair_place,minibus
+161,GA55278,18,wheelchair_place|feedback_monitor,low floor
+162,WA18498,19,feedback_monitor,standard
+163,WA53794,19,feedback_monitor,standard
+164,WA17845,19,wheelchair_place|feedback_monitor,minibus
+165,WA11644,19,wheelchair_place|feedback_monitor,minibus
+166,WA37589,19,air_conditioning|feedback_monitor,low floor
+167,WA29312,19,feedback_monitor,standard
+168,WA14346,19,wheelchair_place|air_conditioning,low floor
+169,WA47161,19,feedback_monitor,standard
+170,WA31765,19,feedback_monitor|air_conditioning|wheelchair_place,standard
+171,WA58796,19,air_conditioning,minibus
+172,WA97459,20,wheelchair_place,low floor
+173,WA22876,20,wheelchair_place|air_conditioning|feedback_monitor,low floor
+174,WA64674,20,feedback_monitor|wheelchair_place,low floor
+175,WA76442,20,feedback_monitor|wheelchair_place|air_conditioning,low floor
+176,WA56963,20,air_conditioning|feedback_monitor,minibus
+177,WA57935,20,air_conditioning,standard
+178,WA43571,20,wheelchair_place|feedback_monitor,standard
+179,WA40864,20,wheelchair_place,minibus
+180,WA40269,20,wheelchair_place|feedback_monitor,minibus
+181,WA61060,20,wheelchair_place|feedback_monitor|air_conditioning,standard

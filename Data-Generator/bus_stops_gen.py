@@ -1,8 +1,9 @@
+#additional file with bus stops names
 import os
 import random
 import numpy as np
 from faker import Faker
-from service_office_gen import region_postalcode_city
+from cities import region_postalcode_city
 
 fake = Faker('pl_PL')
 
