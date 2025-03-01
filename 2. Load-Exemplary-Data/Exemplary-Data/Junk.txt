@@ -1,0 +1,12 @@
+1,low,very low
+2,low,low
+3,low,medium
+4,low,high
+5,medium,very low
+6,medium,low
+7,medium,medium
+8,medium,high
+9,high,very low
+10,high,low
+11,high,medium
+12,high,high

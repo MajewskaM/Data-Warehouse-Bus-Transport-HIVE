@@ -1,0 +1,20 @@
+1,Warmia-Masuria's Bus Service no. 1,Olsztyn,small
+2,Kuyavia-Pomerania's Bus Service no. 1,Torun,small
+3,Warmia-Masuria's Bus Service no. 2,Elblag,big
+4,Kuyavia-Pomerania's Bus Service no. 2,Bydgoszcz,medium
+5,Kuyavia-Pomerania's Bus Service no. 3,Bydgoszcz,medium
+6,Pomerania's Bus Service no. 1,Gdansk,big
+7,Kuyavia-Pomerania's Bus Service no. 4,Bydgoszcz,small
+8,Masovia's Bus Service no. 1,Warszawa,big
+9,West Pomerania's Bus Service no. 1,Koszalin,big
+10,West Pomerania's Bus Service no. 2,Koszalin,big
+11,Kuyavia-Pomerania's Bus Service no. 5,Torun,big
+12,Warmia-Masuria's Bus Service no. 3,Elblag,big
+13,Masovia's Bus Service no. 2,Radom,big
+14,Pomerania's Bus Service no. 2,Gdansk,big
+15,Masovia's Bus Service no. 3,Radom,big
+16,Warmia-Masuria's Bus Service no. 4,Olsztyn,small
+17,Kuyavia-Pomerania's Bus Service no. 6,Bydgoszcz,small
+18,Masovia's Bus Service no. 4,Warszawa,small
+19,Masovia's Bus Service no. 5,Radom,medium
+20,Pomerania's Bus Service no. 3,Gdansk,small
